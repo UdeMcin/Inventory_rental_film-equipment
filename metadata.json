@@ -1,0 +1,10 @@
+{
+  "name": "Film Equipment Depot & Rental Management _ University",
+  "description": "Cinema equipment rental, custody verification, inventory barcode tracking, printable QR tags, AI vision camera defect detection, and departmental curriculum administration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

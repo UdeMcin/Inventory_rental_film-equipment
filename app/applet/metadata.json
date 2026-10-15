@@ -1,0 +1,10 @@
+{
+  "name": "CineTrack Pro - University Film Studies Equipment Depot",
+  "description": "Cinema and broadcast video equipment checkout, maintenance scheduling, barcode tracking, digital signatures, damage dispatch, and academic borrowing analytics for university film studies.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
